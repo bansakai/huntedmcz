@@ -1,2 +1,2 @@
-# huntedmcz
+# Hunted MCZ
 A Minecraft modpack.
